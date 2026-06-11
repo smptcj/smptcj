@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @smptcj
-- 👀 I’m interested in computing
-- 🌱 I’m currently learning python
-- ⚡ Fun fact: i'm interested in computing
+Name: Stephen MP
+Age: 18
 
-<!---
-smptcj/smptcj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+Electrical Engineering enthusiast from Singapore.
+
+Building projects in Arduino, circuit analysis, electronics, and embedded systems while preparing for Electrical Engineering studies at NUS or NTU.
+
+## Currently Working On
+
+- EE Fundamentals
+- Arduino Projects
+- Circuit Simulations
+- Engineering Documentation
+
+## Motto
+
+"Engineering is learned by building."
