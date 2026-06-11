@@ -1,19 +1,17 @@
-Name: Stephen MP
-Age: 18
+# Stephen MP
 
-## About Me
-
-Electrical Engineering enthusiast from Singapore.
+Aspiring Electrical Engineer from Singapore.
 
 Building projects in Arduino, circuit analysis, electronics, and embedded systems while preparing for Electrical Engineering studies at NUS or NTU.
 
-## Currently Working On
+## Current Focus
 
-- EE Fundamentals
-- Arduino Projects
-- Circuit Simulations
-- Engineering Documentation
+* Electrical Engineering Fundamentals
+* Arduino Projects
+* Circuit Simulation
+* Embedded Systems
+* Technical Documentation
 
-## Motto
+## Philosophy
 
-"Engineering is learned by building."
+> Engineering is learned by building.
